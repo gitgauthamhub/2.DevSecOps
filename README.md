@@ -88,14 +88,16 @@ Windows ==> not case sensitive, GIT == git == Git                    ==> C:\devo
 Linux ==> case sensitive, Git != siva no space in linux              ==> /c/devops/daws-84s   Linux Format
 
 
-===================
+===========================================
 Open >> git bash 
 $ pwd 
 $ cd  /c/devops/daws-84s
 
-ssh-keygen -f <file-name>
+ssh-keygen -f <file-name>                    Note : To create keys we need a command 
 
-ssh-keygen -f daws-84s
+$ ssh-keygen -f daws-84s                     Note : Goto c-drive let see u have 2 files  Public & Private 
+                                                    Open Public key & copy to import AWS
+                                                    Sign in to AWS account 
 
 ssh-rsa long-random-code 
 
