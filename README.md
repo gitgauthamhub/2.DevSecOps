@@ -69,6 +69,7 @@ In Software we have Key Pairs ==> Public Key and Private Key
 4. Create Server and attach Public key
 5. Attach Firewall to Server
 
+
 =================================================================================================================================
 Download ==> https://git-scm.com/downloads
 Git Bash ==>  Mini Linux in Windows
