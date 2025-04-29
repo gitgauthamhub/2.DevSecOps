@@ -1,21 +1,22 @@
 # 2.DevSecOps
-Client server , Firewall , Authentication method , Keys generation , Launch Server , Connecting server
+Client Server , Firewall , Authentication Method , Keys Generation , Launch Server , Connecting Server
+=======================================================================================================
 
 
-what is computer == IP enabled device
+What is computer == IP enabled device
 
-Computer = laptop, mobile, server, chip, tv 
-Server = only to host applications
+Computer == laptop, mobile, server, chip, tv 
+Server == only to host applications
 
 RAM, OS, HD, Processor == IP enabled device
 
 
 1.Client Server Architecture  == Who is Clent & Who is Server
-===========================    ============================
+=============================================================
 
 Software == Networking & Computers
 
-1. Network           Note : We are connecting Amazon Server through Network
+1. Network              Note : We are connecting Amazon Server through Network
 2. Amazon application   Note : We are not connect to Amazon application, may be the Amazon application Down 
 
 Example 
@@ -29,6 +30,13 @@ Protocol == https >> Port == 443 >> IP == DNS IP >> Username and Password  == Th
 
 A Instagram Employee connects to Instagram Server you need to use == SSH 
 SSH == Secure shell  >>  Port: 22  >> IP, Username and Password/private-key
+
+
+Note : Now we Create a Linux Server in AWS cloud == Aws Account
+===============================================================
+
+What is Firewall == A firewall is a Network Security Before we need to connect to Server 
+
 
 2. Firewall --> Checks Inbound and Outbound Traffic
 =================================================
