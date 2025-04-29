@@ -16,8 +16,8 @@ RAM, OS, HD, Processor == IP enabled device
 
 Software == Networking & Computers
 
-1. Network              Note : We are connecting Amazon Server through Network
-2. Amazon application   Note : We are not connect to Amazon application, may be the Amazon application Down 
+1. Network                                    Note : We are connecting Amazon Server through Network
+2. Amazon application                         Note : We are not connect to Amazon application, may be the Amazon application Down 
 
 Example 
 Serve ==> Doctor serves to us, we are his client
@@ -45,7 +45,7 @@ What is Firewall == A firewall is a Network Security Before we need to connect t
 2. Firewall --> Checks Inbound and Outbound Traffic
 ====================================================
 Inbound ==> Incoming Traffic >> Port no: 22,  >> IP : 106.222.229.55
-                                              >> Note : What is my IP ? Search in google.com then you got ur sys IP Address
+                                              Note : What is my IP ? Search in google.com then you got ur sys IP Address
 Outbound ==> Outgoing Traffic
 
 
@@ -75,12 +75,12 @@ Download ==> https://git-scm.com/downloads
 Git Bash ==>  Mini Linux in Windows
 SSH Client
 
-Browser ==> http/https client            Note : browser is a http or https client
-Linux Server ==> SSH Server              linux server is a ssh server    == Note : to connect this server , we need client software
+Browser ==> http/https client             Note : browser is a http or https client
+Linux Server ==> SSH Server               linux server is a ssh server    == Note : to connect this server , we need client software
 
 git bash = putty = super putty = mobaxterm = mac terminal = windows cmd           
 
-Above are called >> ssh clients         Note : Now use this ssh clients to connect the server
+Above are called >> ssh clients           Note : Now use this ssh clients to connect the server
 
 
 User Directory
