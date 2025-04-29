@@ -23,12 +23,13 @@ Example
 Serve ==> Doctor serves to us, we are his client
 Tcs is a Server   ==> Tcs clients is a Icici Bank 
 
-Instagram is in Linux server, if problem comes we need to login to server
+Instagram is in Linux server
 
 https://www.Instagram.com
 Protocol == https >> Port == 443 >> IP == DNS IP >> Username and Password  == This is called Authentication
 
-A Instagram Employee connects to Instagram Server you need to use == SSH 
+If Issue on Instagram website
+Instagram Employee connects to Instagram Server you need to use == SSH 
 >>  SSH == Secure shell  
 >>  Port: 22
 >>  IP,
