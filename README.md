@@ -137,7 +137,7 @@ $ ssh -i daws-84s ec2-user@108.22.54.28            Note : ssh -i <private-key> e
 
 =================================================================================================================================
 
-OS --> Redhat, Ubuntu, centos, fedore, suse, oracle linux, amazon linux, debian, rocky linux, kali, solaris
+What is OS --> Redhat, Ubuntu, centos, fedore, suse, oracle linux, amazon linux, debian, rocky linux, kali, solaris
 
 Linux is OS or not --> Linux is Kernel
 
