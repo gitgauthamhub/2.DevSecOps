@@ -125,9 +125,10 @@ goto >> Key pair                         Note : Import Public Key here  ( Not Cr
 
 ![image](https://github.com/user-attachments/assets/42dc05e2-a144-487f-a50d-e1e8fe739e41)
 
-now lauch the Server = Ec2 Instance
+lauch the Server >> Ec2 Instance
 
-98.81.70.98, 22, SSH, ec2-user, private-key
+Note : Now connect from Internet it should be Public ID : 
+Public Id : 108.22.54.28, 22, SSH, ec2-user, private-key
 
 ssh -i <private-key> ec2-user@98.81.70.98
 
