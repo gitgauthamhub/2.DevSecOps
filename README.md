@@ -39,7 +39,7 @@ Instagram Employee connects to Instagram Server you need to use == SSH
 Note : Now we Create a Linux Server in AWS cloud == Aws Account
 ===============================================================
 
-What is Firewall == A firewall is a Network Security Before we need to connect to Server 
+What is Firewall == A firewall is a Network Security Before we need to connect to particular Server 
 
 
 2. Firewall --> Checks Inbound and Outbound Traffic
