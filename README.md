@@ -58,7 +58,7 @@ Outbound ==> Outgoing Traffic
 
 How to Authentication for the Server ==> Server == Node == Box
 ===============================================================
-Example  >> Lock is a = Public // Key is a  = Private
+Example  >> Lock is a = Public  &&  Key is a  = Private
 
 In Software we have Key Pairs ==> Public Key and Private Key
 
@@ -69,13 +69,13 @@ In Software we have Key Pairs ==> Public Key and Private Key
 4. Create Server and attach Public key
 5. Attach Firewall to Server
 
-
+=================================================================================================================================
 Download ==> https://git-scm.com/downloads
 Git Bash ==>  Mini Linux in Windows
 SSH Client
 
 Browser ==> http/https client            Note : browser is a http or https client
-Linux Server ==> SSH Server                     linux server is a ssh server    == Note : to connect this server , we need client software
+Linux Server ==> SSH Server              linux server is a ssh server    == Note : to connect this server , we need client software
 
 git bash = putty = super putty = mobaxterm = mac terminal = windows cmd           
 
@@ -90,7 +90,7 @@ Windows ==> not case sensitive, GIT == git == Git                    ==> C:\devo
 Linux ==> case sensitive, Git != siva no space in linux              ==> /c/devops/daws-84s   Linux Format
 
 
-===========================================
+=================================================================================================================================
 Open >> git bash 
 $ pwd 
 $ cd  /c/devops/daws-84s
