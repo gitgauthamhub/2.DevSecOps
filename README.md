@@ -108,7 +108,7 @@ ssh-rsa long-random-code
 Region ==> us-east-1
 
 LOGIN >> AWS CONSOLE 
-goto  >> Security Groups                     Note : This is firewall, Firewall is nothing todo Security Group 
+goto  >> Security group                    Note : This is firewall, Firewall is nothing todo Security Group 
       >> Create security group
     
 
@@ -121,11 +121,11 @@ goto  >> Security Groups                     Note : This is firewall, Firewall i
      
 
 
-goto >> Key Pairs                           Note : Import Public Key here  ( Not Create )
+goto >> Key pair                         Note : Import Public Key here  ( Not Create )
 
 ![image](https://github.com/user-attachments/assets/42dc05e2-a144-487f-a50d-e1e8fe739e41)
 
-0.0.0.0/0
+now lauch the Server = Ec2 Instance
 
 98.81.70.98, 22, SSH, ec2-user, private-key
 
