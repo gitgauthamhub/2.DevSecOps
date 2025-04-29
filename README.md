@@ -84,11 +84,11 @@ Above are called >> ssh clients         Note : Now use this ssh clients to conne
 
 
 User Directory
-C:\Users\siva --> windows format
-/c/Users/siva --> linux format
+C:\Users\grk ==> windows format
+/c/Users/grk ==> linux format
 
 Windows ==> not case sensitive, GIT == git == Git                    ==> C:\devops\daws-84s   Windows Format
-Linux ==> case sensitive, Git != siva no space in linux              ==> /c/devops/daws-84s   Linux Format
+Linux ==> case sensitive, Git != grk no space in linux              ==> /c/devops/daws-84s   Linux Format
 
 
 =================================================================================================================================
