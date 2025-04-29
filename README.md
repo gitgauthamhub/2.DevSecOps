@@ -128,9 +128,14 @@ goto >> Key pair                         Note : Import Public Key here  ( Not Cr
 lauch the Server >> Ec2 Instance
 
 Note : Now connect from Internet it should be Public ID : 
-Public Id : 108.22.54.28, 22, SSH, ec2-user, private-key
+Public Id : 108.22.54.28, Port no : 22, Protocol : SSH, User Name : ec2-user, private-key
 
-ssh -i <private-key> ec2-user@98.81.70.98
+=================================================================================================================================
+
+Open >> git bash 
+$ ssh -i daws-84s ec2-user@108.22.54.28            Note : ssh -i <private-key> ec2-user@108.22.54.28
+
+=================================================================================================================================
 
 OS --> Redhat, Ubuntu, centos, fedore, suse, oracle linux, amazon linux, debian, rocky linux, kali, solaris
 
