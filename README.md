@@ -29,7 +29,10 @@ https://www.Instagram.com
 Protocol == https >> Port == 443 >> IP == DNS IP >> Username and Password  == This is called Authentication
 
 A Instagram Employee connects to Instagram Server you need to use == SSH 
-SSH == Secure shell  >>  Port: 22  >> IP, Username and Password/private-key
+>>  SSH == Secure shell  
+>>  Port: 22
+>>  IP,
+>>  Username and Password / Private-key
 
 
 Note : Now we Create a Linux Server in AWS cloud == Aws Account
@@ -39,28 +42,30 @@ What is Firewall == A firewall is a Network Security Before we need to connect t
 
 
 2. Firewall --> Checks Inbound and Outbound Traffic
-=================================================
-Inbound --> incoming traffic --> port number 22, 103.149.59.114
-Outbound --> outgoing traffic
-
-Authentication
-===============
-1. what you know --> username password
-2. what you have --> keys, tokens, authentication, rsa token
-3. what you are --> fingerprint, retina, palm, face
-
-Server = Node
-Lock = Public
-Key = Private
-
-Key pairs --> public key and private key
+====================================================
+Inbound ==> Incoming Traffic >> Port no: 22, IP : 106.222.229.55    >> Note : What is my IP search in google.com then you got ur IP Address
+Outbound ==> Outgoing Traffic
 
 
-1. Create key pair
-2. Create firewall
-3. Import public key to aws account
-4. Create server and attach public key
-5. Attach firewall to server
+3.Authentication
+================
+1. What you know ==> Username, Password
+2. What you have ==> Keys, Tokens, Authentication, RSA Token
+3. What you are ==> Fingerprint, Retina, Palm, Face
+
+
+How to Authentication for the Server ==> Server == Node == Box
+===============================================================
+Example  >> Lock is a = Public // Key is a  = Private
+
+In Software we have Key Pairs ==> Public Key and Private Key
+
+
+1. Create Key pair
+2. Create Firewall
+3. Import Public key to aws account
+4. Create Server and attach public key
+5. Attach Firewall to server
 
 
 Git Bash --> Mini Linux in Windows
