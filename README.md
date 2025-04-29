@@ -45,7 +45,7 @@ What is Firewall == A firewall is a Network Security Before we need to connect t
 2. Firewall --> Checks Inbound and Outbound Traffic
 ====================================================
 Inbound ==> Incoming Traffic >> Port no: 22,  >> IP : 106.222.229.55
-                                              >> Note : What is my IP ? Search in google.com then you got ur IP Address
+                                              >> Note : What is my IP ? Search in google.com then you got ur sys IP Address
 Outbound ==> Outgoing Traffic
 
 
