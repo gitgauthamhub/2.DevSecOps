@@ -61,33 +61,37 @@ Example  >> Lock is a = Public // Key is a  = Private
 In Software we have Key Pairs ==> Public Key and Private Key
 
 
-1. Create Key pair
-2. Create Firewall
-3. Import Public key to aws account
-4. Create Server and attach public key
-5. Attach Firewall to server
+1. Create Key pair                           == 1st we generate key pair 
+2. Create Firewall                           == 2nd in AWS cloud account create firewall
+3. Import Public key to AWS account
+4. Create Server and attach Public key
+5. Attach Firewall to Server
 
 
-Git Bash --> Mini Linux in Windows
-SSH client
+Download ==> https://git-scm.com/downloads
+Git Bash ==>  Mini Linux in Windows
+SSH Client
 
-Browser --> http/https client
-Linux Server --> SSH Server
+Browser ==> http/https client            Note : browser is a http or https client
+Linux Server ==> SSH Server                     linux server is a ssh server    == Note : to connect this server , we need client software
 
-git bash = putty = super putty = mobaxterm = mac terminal = windows cmd
+git bash = putty = super putty = mobaxterm = mac terminal = windows cmd           
 
-ssh clients
+Above are called >> ssh clients         Note : Now use this ssh clients to connect the server
 
-pwd --> present working directory
 
 User Directory
 C:\Users\siva --> windows format
 /c/Users/siva --> linux format
 
-Windows --> not case sensitive GIT == git == Git
-Linux --> case sensitive --> Git != siva no space in linux
+Windows ==> not case sensitive, GIT == git == Git                    ==> C:\devops\daws-84s   Windows Format
+Linux ==> case sensitive, Git != siva no space in linux              ==> /c/devops/daws-84s   Linux Format
 
-/c/devops/daws-84s == C:\devops\daws-84s
+
+===================
+Open >> git bash 
+$ pwd 
+$ cd  /c/devops/daws-84s
 
 ssh-keygen -f <file-name>
 
