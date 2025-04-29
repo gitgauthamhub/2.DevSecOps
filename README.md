@@ -2,34 +2,35 @@
 Client server , Firewall , Authentication method , Keys generation , Launch Server , Connecting server
 
 
-what is computer?
-==================
-IP enabled device
+what is computer == IP enabled device
 
 Computer = laptop, mobile, server, chip, tv 
 Server = only to host applications
 
-RAM, OS, HD, Processor --> IP enabled device
+RAM, OS, HD, Processor == IP enabled device
 
 
-Client Server Architecture
-===========================
+1.Client Server Architecture  == Who is Clent & Who is Server
+===========================    ============================
 
-Networking between Computers
+Software == Networking & Computers
 
-1. Network
-2. Facebook application
+1. Network           Note : We are connecting Amazon Server through Network
+2. Amazon application   Note : We are not connect to Amazon application, may be the Amazon application Down 
 
-Serve --> lawyer serves to us, we are his client
-Facebook is in Linux server, if problem comes we need to login to server
+Example 
+Serve ==> Doctor serves to us, we are his client
+Tcs is a Server   ==> Tcs clients is a Icici Bank 
 
-https://www.joindevops.com
+Instagram is in Linux server, if problem comes we need to login to server
 
-Protocol: https >> Port: 443 >> IP: DNS IP >> Username and password --> authentication
+https://www.Instagram.com
+Protocol == https >> Port == 443 >> IP == DNS IP >> Username and Password  == This is called Authentication
 
-SSH --> Secure shell  >>  Port: 22  >> IP, Username and Password/private-key
+A Instagram Employee connects to Instagram Server you need to use == SSH 
+SSH == Secure shell  >>  Port: 22  >> IP, Username and Password/private-key
 
-Firewall --> Checks Inbound and Outbound Traffic
+2. Firewall --> Checks Inbound and Outbound Traffic
 =================================================
 Inbound --> incoming traffic --> port number 22, 103.149.59.114
 Outbound --> outgoing traffic
