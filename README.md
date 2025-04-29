@@ -98,14 +98,15 @@ $ cd  /c/devops/daws-84s
 
 ssh-keygen -f <file-name>                    Note : To create keys we need a command 
 
-$ ssh-keygen -f daws-84s                     Note : Goto c-drive let see u have 2 files  Public & Private 
+$ ssh-keygen -f daws-84s                     Note : Goto c-drive let see u have 2 files  Public && Private 
                                                     Open Public key & copy to import AWS
                                                     Sign in to AWS account 
 
 ssh-rsa long-random-code 
-
 Region --> us-east-1
 
+Login >> Aws Console 
+Goto >> Security Groups                     Note : This is firewall, Firewall is nothing todo Security Group 
 0.0.0.0/0
 
 98.81.70.98, 22, SSH, ec2-user, private-key
