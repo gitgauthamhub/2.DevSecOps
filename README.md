@@ -107,9 +107,9 @@ $ ssh-keygen -f daws-84s                     Note : Goto c-drive let see u have 
 ssh-rsa long-random-code 
 Region ==> us-east-1
 
-Login >> Aws Console 
-Goto >> Security Groups                     Note : This is firewall, Firewall is nothing todo Security Group 
-     >> Create security group
+LOGIN >> AWS CONSOLE 
+goto  >> Security Groups                     Note : This is firewall, Firewall is nothing todo Security Group 
+      >> Create security group
     
 
 ![image](https://github.com/user-attachments/assets/7ead6911-8392-4d8e-a64a-aaff45c9cc42)
@@ -121,7 +121,7 @@ Goto >> Security Groups                     Note : This is firewall, Firewall is
      
 
 
-Goto >> Key Pairs                           Note : Import Public Key here
+goto >> Key Pairs                           Note : Import Public Key here
 
 ![image](https://github.com/user-attachments/assets/42dc05e2-a144-487f-a50d-e1e8fe739e41)
 
