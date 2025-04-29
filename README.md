@@ -71,6 +71,7 @@ In Software we have Key Pairs ==> Public Key and Private Key
 
 
 =================================================================================================================================
+
 Download ==> https://git-scm.com/downloads
 Git Bash ==>  Mini Linux in Windows
 SSH Client
@@ -92,6 +93,7 @@ Linux ==> case sensitive, Git != grk no space in linux              ==> /c/devop
 
 
 =================================================================================================================================
+
 Open >> git bash 
 $ pwd 
 $ cd  /c/devops/daws-84s
@@ -114,6 +116,8 @@ Goto >> Security Groups                     Note : This is firewall, Firewall is
 
 
      ![image](https://github.com/user-attachments/assets/66a86b2e-a6cc-475b-b39e-63f5c665faf1)
+
+     ![image](https://github.com/user-attachments/assets/5f2c5cab-d1e0-495c-b270-595e1c68f848)
      
 
 
