@@ -121,7 +121,10 @@ Goto >> Security Groups                     Note : This is firewall, Firewall is
      
 
 
->> Key Pairs                           Note : Import Public Key here
+Goto >> Key Pairs                           Note : Import Public Key here
+
+![image](https://github.com/user-attachments/assets/42dc05e2-a144-487f-a50d-e1e8fe739e41)
+
 0.0.0.0/0
 
 98.81.70.98, 22, SSH, ec2-user, private-key
