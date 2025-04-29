@@ -11,7 +11,7 @@ Server == only to host applications
 RAM, OS, HD, Processor == IP enabled device
 
 
-1.Client Server Architecture  == Who is Clent & Who is Server
+1.Client Server Architecture  == Who is Client & Who is Server
 =============================================================
 
 Software == Networking & Computers
