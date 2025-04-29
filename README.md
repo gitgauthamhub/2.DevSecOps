@@ -121,7 +121,7 @@ goto  >> Security Groups                     Note : This is firewall, Firewall i
      
 
 
-goto >> Key Pairs                           Note : Import Public Key here
+goto >> Key Pairs                           Note : Import Public Key here  ( Not Create )
 
 ![image](https://github.com/user-attachments/assets/42dc05e2-a144-487f-a50d-e1e8fe739e41)
 
