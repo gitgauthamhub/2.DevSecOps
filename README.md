@@ -125,7 +125,7 @@ goto  >> Security group                    Note : This is firewall, Firewall is 
 
 goto >> Key pair                         Note : Import Public Key here  ( Not Create )
 
-![image](https://github.com/user-attachments/assets/42dc05e2-a144-487f-a50d-e1e8fe739e41)
+
 
 lauch the Server >> Ec2 Instance
 
