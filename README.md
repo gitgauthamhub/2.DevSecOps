@@ -5,9 +5,9 @@ Client Server , Firewall , Authentication Method , Keys Generation , Launch Serv
 =======================================================================================================
 
 
-What is computer == IP enabled device
+What is computer == IP enabled device   
 
-Computer == laptop, mobile, server, chip, tv 
+Computer == laptop, mobile, server, chip, tv
 Server == only to host applications
 
 RAM, OS, HD, Processor == IP enabled device
